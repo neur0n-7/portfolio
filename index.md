@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Our team
+title: Hi! I'm Anish Gupta
 hide: true
 ---
 
@@ -26,7 +26,9 @@ hide: true
 
 </style>
 
-<h2 class="glowing-text"><center> THE TINKERERS </center></h2>
+<h2 class="glowing-text"><center> Anish Gupta </center></h2>
+
+Tinkerers Roles:
 
 | Role                   | Name      | Repo Location                                 | Stream                | Repo Name |
 |------------------------|-----------|-----------------------------------------------|-----------------------|-----------|
