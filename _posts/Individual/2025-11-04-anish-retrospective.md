@@ -9,15 +9,9 @@ permalink: /csse1-retrospective
 ---
 
 
-<table>
-	<tr>
-		<th>Role</th>
-		<th>Name</th>
-	</tr>
-	<tr>
-		<td>📋 Tinkerers Scrum Master</td>
-		<td>Anish Gupta</td>
-</table>
+| Roles                  | Name        |
+|------------------------|-------------|
+| Tinkerers Scrum Master | Anish Gupta |
 
 Throughout this blog, I will be reflecting on my progress and growth in CSSE 1.
 
@@ -73,7 +67,7 @@ One person in particular was curious about the algorithms we used to do the scyt
 
 ### Commits
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark" alt="Commit graph">
+![]("https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark")
 
 ![]({{site.baseurl}}/images/posts/anish-contributions.png)
 
