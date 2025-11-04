@@ -52,13 +52,21 @@ I helped make major contributions to our lessons because I made the lessons inte
 
 For the functions lesson, I made the large majority of the lesson, popcorn hacks, and homework problems.
 
-### Sprint 3 - Game for N@TM (Quest of Spook)
+### Sprint 3 - Game for N@tM (Quest of Spook)
 
-Our class made a game for Night at The Museum (N@TM) called Quest of Spook. Our team was responsible for Level 6, which was the boss fight.
+Our class made a game for Night at The Museum (N@tM) called Quest of Spook. Our team was responsible for Level 6, which was the boss fight.
 
 **Our team made a blog reflecting on our challenges and how we organized ourselves, which you can view here: <https://pages.opencodingsociety.com/gamify/blogs/mansion6>.**
 
 I helped contribute to the project as I was the Scrum Master for our team. I worked with my team to make the additions to the game engine (`Boss.js`, `Boomerang.js`, `FightingPlayer.js`, `Projectile.js`) that enabled the Reaper to work properly with its unique mechanics.
+
+__How N@tM went__
+
+N@tM was a big success for us. We recieved lots of encouraging comments, and we got three to four parents to play our boss fight level. All of them had exceptionally positive feedback. Here are two pieces of feedback:
+> "wonderful game. wish i could have done better at playing it"
+> "Great interactive game. Good team work!"
+
+One person in particular was curious about the algorithms we used to do the scythe and collision detection, to which we responded that we used the Pythagorean Theorem for collision detection and [this Desmos graph](https://tinyurl.com/scythegraph) for the elliptical path of the scythe.
 
 
 # Analytics
@@ -84,4 +92,13 @@ Here are all the issues I **authored** throughout CSSE 1:
 I have made 14 pull requests, 8 of which were to `Open-Coding-Society/pages`.
 
 ![]({{site.baseurl}}/images/posts/anish-all-prs.png)
+
+### Comparison to Beginning of the Year
+
+Work in Progress
+
+
+### Next steps
+
+Work in Progress
 
