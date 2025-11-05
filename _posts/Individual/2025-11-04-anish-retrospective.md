@@ -56,10 +56,11 @@ Since I was in subteam 1, I worked on the snake game and the word game.
 - [Game](https://compsciteam.github.io/student/wordgame)
 - [Writeup](https://compsciteam.github.io/student/wordgame/writeup)
 
-<video controls="" width="600">
-  <source src="https://compsciteam.github.io/student/images/hacks/WordGameDemo.mp4" type="video/mp4" />
+<video controls width="600">
+  <source src="{{site.baseurl}}/images/hacks/WordGameDemo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 **Snake**
 - [Game](https://compsciteam.github.io/student/snake/)
