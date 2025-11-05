@@ -56,6 +56,10 @@ Our class made a game for Night at The Museum (N@tM) called Quest of Spook. Our 
 
 I helped contribute to the project as I was the Scrum Master for our team. I worked with my team to make the additions to the game engine (`Boss.js`, `Boomerang.js`, `FightingPlayer.js`, `Projectile.js`) that enabled the Reaper to work properly with its unique mechanics.
 
+Within my team, I assigned tasks to people so that everybody had the opportunity to contribute to the project. I also frequently helped other teams.
+
+![]({{site.baseurl}}/images/posts/anish-team-management.png)
+
 __How N@tM went__
 
 N@tM was a big success for us. We recieved lots of encouraging comments, and we got three to four parents to play our boss fight level. All of them had exceptionally positive feedback. Here are two pieces of feedback:
@@ -96,15 +100,28 @@ Here are all the issues I **authored** throughout CSSE 1:
 
 ### Pull Requests
 
-I have made 14 pull requests, 8 of which were to `Open-Coding-Society/pages`.
+I have made 14 pull requests, 8 of which were to `Open-Coding-Society/pages`. Here is an image of my pull requests throughout CSSE 1:
 
 ![]({{site.baseurl}}/images/posts/anish-all-prs.png)
 
-### Comparison to Beginning of the Year
+# Comparison to Beginning of the Year
 
-- I have learned how to 
+What have I learned?
+- How to write code in Jekyll sites, using things like Frontmatter
+- How to use Markdown and create Jupyter notebooks
+- How to use Git & GitHub to code collaboratively
+- How to use JavaScript, HTML, and CSS together
+- How to use Issues & Kanbans to organize ideas
+- **How to turn those ideas into *reality* 🔥**
 
-### Next steps
+# Next steps
 
-Work in Progress
+### What would I do if I had more time on the game?
 
+- Add animations to the Reaper. Currently, it is static as we didn't have the timeframe to implement animations and other cosmetic changes.
+- Add more player attacks + mechanisms
+- Sound effects instead of just music
+- Implement some of our scrapped ideas
+  - Melee attacks
+  - Player/boss healing
+- Implement local storage / logging in to save progress
