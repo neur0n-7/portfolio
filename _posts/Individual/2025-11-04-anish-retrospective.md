@@ -190,3 +190,14 @@ What have I learned?
 ### Other learning experiences
 
 - Learn about backend development (like DBs, SQL, etc.)
+
+## Leadership & Impact
+
+- Played a central role in my team as Scrum Master
+- Helped at least three other teams 
+  - Every other team depends on our contributions for the N@TM project
+- Other teams ~~stole~~ borrowed our code in multiple areas
+  - In sprint 2, other teams used our format as we did the first lesson
+  - In sprint 3, every other team used the spritesheets we created and uploaded + one team used the exact same code as us in one area
+
+![](https://pages.opencodingsociety.com/images/MansionGameBlog/stolen-evidence-a.png)
