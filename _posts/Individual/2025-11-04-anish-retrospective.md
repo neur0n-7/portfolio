@@ -44,6 +44,31 @@ I made a blog about my experience setting up Windows and WSL [here]({{site.baseu
 
 In addition, our team made a Sci-Fi onboarding experience lesson, which you can view [here](https://compsciteam.github.io/student/onboarding/home). This onboarding experience contains the "KASM Setup", "Linux Filesystem Tutorial", and "Software Development Life Cycle" sections. As you finish each section, the section turns green and you get access to the next section.
 
+For the hacks, our team worked on
+- Snake (S1)
+- Word Game (S1)
+- Calculator (S2)
+- Tic Tac Toe (S2)
+
+Since I was in subteam 1, I worked on the snake game and the word game. 
+
+**Word Game**
+- [Game](https://compsciteam.github.io/student/wordgame)
+- [Writeup](https://compsciteam.github.io/student/wordgame/writeup)
+
+**Snake**
+- [Game](https://compsciteam.github.io/student/snake/)
+- [Writeup](https://compsciteam.github.io/student/snake/writeup)
+
+Tic Tac Toe
+- [Game](https://compsciteam.github.io/student/tictactoe/)
+- [Writeup](https://compsciteam.github.io/student/tictactoe/writeup)
+
+Calculator
+- [Game](https://compsciteam.github.io/student/calculator)
+- [Writeup](https://compsciteam.github.io/student/calculator/writeup)
+
+**From this sprint, I learned how to set up and get accustomed to Git and VSCode.**
 
 ### Sprint 2 - JavaScript Fundamentals Lessons
 
@@ -60,9 +85,15 @@ I helped make major contributions to our lessons because I made the lessons inte
 
 For the functions lesson, I made the large majority of the lesson, popcorn hacks, and homework problems.
 
+![]({{site.baseurl}}/images/posts/examplephack.png)
+
+**From this sprint, I learned the fundamentals of JavaScript.**
+
 ### Sprint 3 - Game for N@tM (Quest of Spook)
 
 Our class made a game for Night at The Museum (N@tM) called Quest of Spook. Our team was responsible for Level 6, which was the boss fight.
+
+![]({{site.baseurl}}/images/posts/questofspookgameplay.gif)
 
 **Our team made a blog reflecting on our challenges and how we organized ourselves, which you can view here: <https://pages.opencodingsociety.com/gamify/blogs/mansion6>.**
 
@@ -81,6 +112,13 @@ N@tM was a big success for us. We recieved lots of encouraging comments, and we 
 
 One person in particular was curious about the algorithms we used to do the scythe and collision detection, to which we responded that we used the Pythagorean Theorem for collision detection and [this Desmos graph](https://tinyurl.com/scythegraph) for the elliptical path of the scythe.
 
+**From this sprint, I learned how to apply the JavaScript fundamentals we learned about in Sprint 2.**
+
+## Sprint Takeaways
+
+- Sprint 1: Prepare to apply your fundamentals 
+- Sprint 2: Learn your fundamental skills
+- Sprint 3: Apply those fundamental skills
 
 ## Analytics
 
@@ -89,6 +127,8 @@ One person in particular was curious about the algorithms we used to do the scyt
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark)
 
 ![]({{site.baseurl}}/images/posts/anish-contributions.png)
+
+![]({{site.baseurl}}/images/posts/anish-dashboard.png)
 
 For the Gamify Quest, out of my group and the class, I have the majority of the commits, many of which were key commits that introduced central features of the game. Here are some of those key commits:
 
@@ -137,3 +177,7 @@ What have I learned?
   - Melee attacks
   - Player/boss healing
 - Implement local storage / logging in to save progress
+
+### Other learning experiences
+
+- Learn about backend development (like DBs, SQL, etc.)
