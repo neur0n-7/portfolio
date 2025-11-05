@@ -28,7 +28,7 @@ In this sprint, we went through the steps to set up
 
 At the beginning of the year, I set up Kasm, but a few weeks later, I transitioned to my personal Windows computer.
 
-I made a blog about my experience setting up Windows and WSL [here]({{site.baseurl}}/windows-setup-blog).
+I made a blog about my experience setting up Windows and WSL [here]({{site.baseurl}}/windows-setup-blog). This blog contains how I set Windows up and how to debug common Windows issues.
 
 In addition, our team made a Sci-Fi onboarding experience lesson, which you can view [here](https://compsciteam.github.io/student/onboarding/home). This onboarding experience contains the "KASM Setup", "Linux Filesystem Tutorial", and "Software Development Life Cycle" sections. As you finish each section, the section turns green and you get access to the next section.
 
@@ -60,6 +60,7 @@ __How N@tM went__
 
 N@tM was a big success for us. We recieved lots of encouraging comments, and we got three to four parents to play our boss fight level. All of them had exceptionally positive feedback. Here are two pieces of feedback:
 > "wonderful game. wish i could have done better at playing it"
+
 > "Great interactive game. Good team work!"
 
 One person in particular was curious about the algorithms we used to do the scythe and collision detection, to which we responded that we used the Pythagorean Theorem for collision detection and [this Desmos graph](https://tinyurl.com/scythegraph) for the elliptical path of the scythe.
@@ -72,6 +73,16 @@ One person in particular was curious about the algorithms we used to do the scyt
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark)
 
 ![]({{site.baseurl}}/images/posts/anish-contributions.png)
+
+For the Gamify Quest, out of my group and the class, I have the majority of the commits, many of which were key commits that introduced central features of the game. Here are some of those key commits:
+
+- Majority of the initial room, including player movement collision w/ door, etc.
+- Code to start audio in both rooms
+- Uploading critical files such as the player sprite & audio files
+  - Most (if not all) of the other levels rely on these uploaded files
+- Transition between intro chamber and boss fight
+  - This code was reused by the team responsible for level two
+- Many key features of the boss fight, e.g. the scythe and player attack systems
 
 ### Issues
 
@@ -91,8 +102,7 @@ I have made 14 pull requests, 8 of which were to `Open-Coding-Society/pages`.
 
 ### Comparison to Beginning of the Year
 
-Work in Progress
-
+- I have learned how to 
 
 ### Next steps
 

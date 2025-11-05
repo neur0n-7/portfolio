@@ -79,7 +79,7 @@ _Note: UNLESS STATED OTHERWISE: Assume all commands listed from this point onwar
 3. Run the setup script for your virtual environment: `./scripts/venv.sh`
 4. Run `source venv/bin/activate` before making code!
  
-## Optional step: system checks
+## Troubleshooting
  
 Just to make sure everything works fine :)
  
@@ -93,3 +93,24 @@ git config --global --list
 ```
  
 If any of these fail, go back and retry the steps from above (especially step 5!).
+
+#### Commits showing up under a different username?
+
+First check your .bashrc file: `cat ~/.bashrc`
+
+If you see any lines like 
+```
+git config --global user.name jmort1021
+git config --global user.email [any email that isn't yours]
+```
+
+Replace the invalid username and email with your own information. Then, run your .bashrc file (`source ~/.bashrc`) to apply those changes. In your terminal, run:
+```
+git config --global user.name
+git config --global user.email
+```
+to double check that your changes are updated. If it still isn't updated, run
+```
+git config --global user.name [your username]
+git config --global user.email [your email]
+```
