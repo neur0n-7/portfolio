@@ -10,6 +10,18 @@ permalink: /csse1-retrospective
 
 <br>
 
+<style>
+h2 {
+  color: #fff; /* Set the text color to white or a light color for better contrast */
+  text-shadow: 0 0 10px #8a2be2, /* Purple glow */
+               0 0 20px #8a2be2, /* Deeper purple glow */
+               0 0 30px #4169e1, /* Blue glow */
+               0 0 40px #4169e1; /* Deeper blue glow */
+
+  font-weight: bold;
+}
+</style>
+
 
 | Roles                  | Name        |
 |------------------------|-------------|
@@ -17,7 +29,7 @@ permalink: /csse1-retrospective
 
 Throughout this blog, I will be reflecting on my progress and growth in CSSE 1.
 
-# Sprints
+## Sprints
 
 ### Sprint 1 - Tools/Machine Setup
 
@@ -70,7 +82,7 @@ N@tM was a big success for us. We recieved lots of encouraging comments, and we 
 One person in particular was curious about the algorithms we used to do the scythe and collision detection, to which we responded that we used the Pythagorean Theorem for collision detection and [this Desmos graph](https://tinyurl.com/scythegraph) for the elliptical path of the scythe.
 
 
-# Analytics
+## Analytics
 
 ### Commits
 
@@ -104,7 +116,7 @@ I have made 14 pull requests, 8 of which were to `Open-Coding-Society/pages`. He
 
 ![]({{site.baseurl}}/images/posts/anish-all-prs.png)
 
-# Comparison to Beginning of the Year
+## Comparison to Beginning of the Year
 
 What have I learned?
 - How to write code in Jekyll sites, using things like Frontmatter
@@ -114,7 +126,7 @@ What have I learned?
 - How to use Issues & Kanbans to organize ideas
 - **How to turn those ideas into *reality* 🔥**
 
-# Next steps
+## Next steps
 
 ### What would I do if I had more time on the game?
 
