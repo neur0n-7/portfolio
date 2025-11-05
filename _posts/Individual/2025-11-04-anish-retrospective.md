@@ -69,7 +69,7 @@ One person in particular was curious about the algorithms we used to do the scyt
 
 ### Commits
 
-![]("https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark")
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark)
 
 ![]({{site.baseurl}}/images/posts/anish-contributions.png)
 
