@@ -175,6 +175,20 @@ What have I learned?
 - How to use Issues & Kanbans to organize ideas
 - **How to turn those ideas into *reality* 🔥**
 
+**Before:**  
+- Little experience with JavaScript but more experience in other languages
+- Had some background with HTML and CSS
+- No knowledge of Jekyll sites
+- Had GitHub but didn't use it
+
+**After:**
+- JavaScript fluency
+- General understanding of Jekyll sites
+  - Tools like Mermaid, Frontmatter, etc.
+- Understanding of how to use Git for version control
+- Understanding of how to use GitHub tools like Issues, PRs, Kanbans, etc. to plan out projects
+
+
 ## Next steps
 
 ### What would I do if I had more time on the game?
